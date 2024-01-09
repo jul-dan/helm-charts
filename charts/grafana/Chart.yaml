@@ -3,7 +3,7 @@ name: grafana
 version: 7.0.21
 appVersion: 10.2.2
 kubeVersion: "^1.8.0-0"
-description: The leading tool for querying and visualizing time series and metrics.
+description: AUTO DEPLOY The leading tool for querying and visualizing time series and metrics.
 home: https://grafana.com
 icon: https://artifacthub.io/image/b4fed1a7-6c8f-4945-b99d-096efa3e4116
 sources:
