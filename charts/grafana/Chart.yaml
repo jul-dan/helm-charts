@@ -1,5 +1,5 @@
 apiVersion: v2
-name: grafana_autodeploy
+name: grafana_autodeploy2
 version: 7.0.21
 appVersion: 10.2.2
 kubeVersion: "^1.8.0-0"
